@@ -18,13 +18,14 @@ https://user-images.githubusercontent.com/122031769/225301567-4840a16c-cc7d-4d6c
 
 
 <br>
-App home: https://mallamandilcoding.github.io/travel_website/
+App home: https://mallamandilcoding.github.io/calculatorjs/
 
 
 
 ## Built With
 - [HTML5]
 - [CSS3]
+- [JAVASCRIPT]
 
 
 ## Contributing
